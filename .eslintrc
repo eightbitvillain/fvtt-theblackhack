@@ -1,0 +1,5 @@
+{
+  "extends": [
+      "plugin:foundry-vtt/recommended"
+  ]
+}

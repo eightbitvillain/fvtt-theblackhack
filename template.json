@@ -1,0 +1,64 @@
+{
+  "Actor": {
+    "types": [
+      "ranger",
+      "wizard",
+      "thief"
+    ],
+    "templates": {
+      "commonStats": {
+        "biography": "",
+        "health": {
+          "value": 10,
+          "min": 0,
+          "max": 10
+        },
+        "power": {
+          "value": 5,
+          "min": 0,
+          "max": 5
+        },
+        "attributes": {},
+        "groups": {}
+      }
+    },
+    "ranger": {
+      "templates": [
+        "commonStats"
+      ]
+    },
+    "wizard": {
+      "templates": [
+        "commonStats"
+      ]
+    },
+    "thief": {
+      "templates": [
+        "commonStats"
+      ]
+    }
+  },
+  "Item": {
+    "types": [
+      "weapon",
+      "Armor"
+    ],
+    "templates": {
+      "itemDescription": {
+        "description": ""
+      }
+    }
+  },
+  "weapon": {
+    "templates": [
+      "itemDescription"
+    ],
+    "damage": 0
+  },
+  "armor": {
+    "templates": [
+      "itemDescription"
+    ],
+    "ac": 0
+  }
+}

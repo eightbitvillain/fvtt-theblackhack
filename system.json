@@ -1,0 +1,31 @@
+{
+  "name": "theblackhack",
+  "title": "The Black Hack",
+  "description": "A FoundryVTT game system for The Black Hack.",
+  "version": "0.0.2",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "templateVersion": 2,
+  "author": "eightbitvillain",
+  "esmodules": [
+    "module/theblackhack.js"
+  ],
+  "styles": [],
+  "scripts": [],
+  "packs": [
+    {
+      "name": "tbh-tables",
+      "label": "TBH Rollable Tables",
+      "path": "./packs/tbh-tables.db",
+      "entity": "RollTable"
+    }
+  ],
+  "languages": [],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "url": "https://github.com/eightbitvillain/fvtt-theblackhack",
+  "manifest": "https://raw.githubusercontent.com/eightbitvillain/fvtt-theblackhack/main/system.json",
+  "download": "https://github.com/eightbitvillain/fvtt-theblackhack/archive/main.zip",
+  "license": "LICENSE.txt"
+}
