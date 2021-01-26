@@ -3,7 +3,7 @@
 
 **Author(s)**: EightBitVillain, TheGreatJonsby, Dope M.S.R.
 
-**Foundry VTT Compatibility**: 0.7.9+
+**Foundry VTT Compatibility**: 0.6.6+
 
 ## Description
 
