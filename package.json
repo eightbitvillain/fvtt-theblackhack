@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eightbitvillain/fvtt-theblackhand.git"
+    "url": "git+https://github.com/eightbitvillain/fvtt-theblackhack.git"
   },
   "keywords": [
     "foundryvtt",
@@ -25,7 +25,7 @@
   "author": "8bitvillain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eightbitvillain/fvtt-theblackhand/issues"
+    "url": "https://github.com/eightbitvillain/fvtt-theblackhack/issues"
   },
-  "homepage": "https://github.com/eightbitvillain/fvtt-theblackhand#readme"
+  "homepage": "https://github.com/eightbitvillain/fvtt-theblackhack#readme"
 }
